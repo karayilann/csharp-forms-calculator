@@ -1,0 +1,17 @@
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\myProjects\forms_calculator\bin\Release\net6.0-windows\forms_calculator.exe
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\myProjects\forms_calculator\bin\Release\net6.0-windows\forms_calculator.deps.json
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\myProjects\forms_calculator\bin\Release\net6.0-windows\forms_calculator.runtimeconfig.json
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\myProjects\forms_calculator\bin\Release\net6.0-windows\forms_calculator.dll
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\myProjects\forms_calculator\bin\Release\net6.0-windows\forms_calculator.pdb
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\myProjects\forms_calculator\obj\Release\net6.0-windows\forms_calculator.csproj.AssemblyReference.cache
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\myProjects\forms_calculator\obj\Release\net6.0-windows\forms_calculator.Form1.resources
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\myProjects\forms_calculator\obj\Release\net6.0-windows\forms_calculator.csproj.GenerateResource.cache
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\myProjects\forms_calculator\obj\Release\net6.0-windows\forms_calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\myProjects\forms_calculator\obj\Release\net6.0-windows\forms_calculator.AssemblyInfoInputs.cache
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\myProjects\forms_calculator\obj\Release\net6.0-windows\forms_calculator.AssemblyInfo.cs
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\myProjects\forms_calculator\obj\Release\net6.0-windows\forms_calculator.csproj.CoreCompileInputs.cache
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\myProjects\forms_calculator\obj\Release\net6.0-windows\forms_calculator.dll
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\myProjects\forms_calculator\obj\Release\net6.0-windows\refint\forms_calculator.dll
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\myProjects\forms_calculator\obj\Release\net6.0-windows\forms_calculator.pdb
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\myProjects\forms_calculator\obj\Release\net6.0-windows\forms_calculator.genruntimeconfig.cache
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\myProjects\forms_calculator\obj\Release\net6.0-windows\ref\forms_calculator.dll

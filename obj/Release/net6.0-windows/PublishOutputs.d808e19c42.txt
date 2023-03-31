@@ -1,0 +1,5 @@
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\myProjects\exe_files\calculator\forms_calculator.exe
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\myProjects\exe_files\calculator\forms_calculator.dll
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\myProjects\exe_files\calculator\forms_calculator.deps.json
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\myProjects\exe_files\calculator\forms_calculator.runtimeconfig.json
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\myProjects\exe_files\calculator\forms_calculator.pdb
